@@ -1,4 +1,4 @@
-# kp-quote
+# awesome-kp-quotes
 
 > Collection of [KP Sharma Oli](https://en.wikipedia.org/wiki/Khadga_Prasad_Oli)'s quotes
 
